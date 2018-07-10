@@ -1,0 +1,208 @@
+C:\Users\DavidHus\Desktop\MODE\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.1\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.1 - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.2\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.2 - 複製\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\DavidHus\Desktop\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+E:\五子棋Exe+Source\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+E:\五子棋Exe+Source\MODE var0.3\MODE\bin\Debug\MODE.exe
+E:\五子棋Exe+Source\MODE var0.3\MODE\bin\Debug\MODE.pdb
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.exe
+E:\五子棋Exe+Source\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋ROCK\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK921\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK922\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK923\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK924\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK925\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\MODE.exe.config
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\Interop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csproj.ResolveComReference.cache
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.Form1.resources
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.Properties.Resources.resources
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csproj.GenerateResource.Cache
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.exe
+C:\Users\jason\Desktop\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\MODE.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\FiveStarsBattle.exe.config
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\FiveStarsBattle.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\bin\Debug\FiveStarsBattle.pdb
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\FiveStarsBattle.exe
+C:\Users\jason\Desktop\五子棋全檔案管理\五子棋ROCK928\MODE var0.3\MODE\obj\Debug\FiveStarsBattle.pdb
